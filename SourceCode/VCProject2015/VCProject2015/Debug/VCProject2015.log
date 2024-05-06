@@ -1,0 +1,25 @@
+﻿cl : 命令行  warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  Main.cpp
+  LessonX.cpp
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(98,46): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(99,47): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(100,45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(101,48): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(133,29): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(134,30): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(139,39): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(139,32): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(153,39): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(153,32): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(168,39): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(168,32): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(259,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(262,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(265,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(258,9): warning C4101: “iLoop”: 未引用的局部变量
+D:\C++ 历史代码\FunCode\GoldMiner\SourceCode\Src\LessonX.cpp(291,18): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+LessonX.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+CommonClass_2015.lib(CommonClass.obj) : warning LNK4099: 未找到 PDB“”(使用“CommonClass_2015.lib(CommonClass.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  VCProject2015.vcxproj -> D:\C++ 历史代码\FunCode\GoldMiner\Bin\Game.exe
